@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/iaquine/Documents/GITHUB/water_potability_classifier/water_potability_classifier/mlruns/577653469998454061/b9f0fd7545c84f2db7a4db8a5df7ffc2/artifacts
+end_time: 1738353749898
+entry_point_name: ''
+experiment_id: '577653469998454061'
+lifecycle_stage: active
+run_id: b9f0fd7545c84f2db7a4db8a5df7ffc2
+run_name: invincible-deer-294
+run_uuid: b9f0fd7545c84f2db7a4db8a5df7ffc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738353744050
+status: 3
+tags: []
+user_id: iaquine

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/iaquine/Documents/GITHUB/water_potability_classifier/water_potability_classifier/mlruns/577653469998454061/88e9867f096d4d7bbd0792ecac552954/artifacts
+end_time: 1738350444549
+entry_point_name: ''
+experiment_id: '577653469998454061'
+lifecycle_stage: active
+run_id: 88e9867f096d4d7bbd0792ecac552954
+run_name: bold-dove-812
+run_uuid: 88e9867f096d4d7bbd0792ecac552954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738350440379
+status: 3
+tags: []
+user_id: iaquine

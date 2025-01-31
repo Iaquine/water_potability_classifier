@@ -1,0 +1,5 @@
+repos:
+-   repo: https://github.com/astral-sh/ruff
+    rev: v0.0.112  # ou qualquer versão estável
+    hooks:
+    -   id: ruff

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/iaquine/Documents/GITHUB/water_potability_classifier/water_potability_classifier/mlruns/0/5de2aba2b3cb4f009e5c18f6c5ca723a/artifacts
+end_time: 1738357467107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5de2aba2b3cb4f009e5c18f6c5ca723a
+run_name: nervous-wolf-194
+run_uuid: 5de2aba2b3cb4f009e5c18f6c5ca723a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738357461762
+status: 3
+tags: []
+user_id: iaquine
